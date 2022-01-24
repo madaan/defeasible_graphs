@@ -1,4 +1,4 @@
-# defeasible_graphs
+# Could you give me a hint ? Generating inference graphs for defeasible reasoning
 Graphs for defeasible reasoning used [in this work](https://aclanthology.org/2021.findings-acl.456/).
 
 
